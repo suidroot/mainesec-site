@@ -1,4 +1,4 @@
-baseURL = 'http://mainesec.org/'
+baseURL = 'https://www.mainesec.org/'
 languageCode = 'en-us'
 title = 'MaineSec'
 theme = "terminal"
@@ -28,6 +28,6 @@ theme = "terminal"
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "Discord"
-        name = "Discord"
+        name = "Join the Chat on Discord"
         url = "https://discord.mainesec.org"
 
