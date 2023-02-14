@@ -31,7 +31,6 @@ Attend one of the many in person (some times virtual) meetups!
 
 Please Read our [Code of Conduct](coc.mainesec.org)
 
-
 [![Join Discord](posts/join-us-on-discord.png)](http://discord.mainesec.org)
 
 {{< discord 1013267540274847816 >}}
