@@ -26,10 +26,6 @@ Attend one of the many in person (some times virtual) meetups!
 * [(ISC)² Maine Chapter](https://www.linkedin.com/groups/4087670/)
 * [Maine 2600](https://twitter.com/maine2600) - 2600 is a hacking/tech/cybersec meetup/happy hour with workshops and occasional presentations. One of many meet-ups inspired by the 2600 Hacker Quarterly magazine. Every first Thursday of the month at 6pm, Salvage BBQ!
 
-### Event List
-Below is a the list of Maine Security events if you want something added the calendar email admin@mainesec.org or post an announcement in the Discord community.
-
-{{< gcalendar c2tsdGdkMTllNmE2NGo4ajNzdWxuMTRhMzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ 600 200 >}}
 
 ## Virtual Community (Discord)
 
